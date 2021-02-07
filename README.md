@@ -14,7 +14,7 @@ This repository contains all the necessary scripts used for data preparation, mo
 -----
 
 
-Link to our [npy files](https://drive.google.com/drive/folders/1yRlHtGmDKXHYzEPMUQAi1_JMB9nqXjuX?usp=sharing)
+Link to our [npy files](https://drive.google.com/drive/folders/18gxhGdKsXyyr5n45UQrE2YaXjqgqsHIB?usp=sharing)
 
 
 
